@@ -1,0 +1,758 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="http://organizeseries.com/"
+	>
+
+<channel>
+	<title>WordPress大学</title>
+	<atom:link href="https://www.wpdaxue.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.wpdaxue.com</link>
+	<description>WordPress建站资源平台</description>
+	<lastBuildDate>周三, 28 12月 2016 01:30:12 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7</generator>
+	<item>
+		<title>WordPress 单页视差企业主题 Businessx（兼容WooCommerce）</title>
+		<link>https://www.wpdaxue.com/wordpress-free-theme-businessx.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-free-theme-businessx.html#respond</comments>
+		<pubDate>Wed, 28 Dec 2016 01:30:12 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[WordPress主题]]></category>
+		<category><![CDATA[WooCommerce]]></category>
+		<category><![CDATA[企业主题]]></category>
+		<category><![CDATA[免费主题]]></category>
+		<category><![CDATA[单页主题]]></category>
+		<category><![CDATA[响应式主题]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=43619</guid>
+		<description><![CDATA[Businessx 是一款非常大气的单页视差WordPress企业主题，采用响应式布局，完美支持手机、平板和电 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>Businessx 是一款非常大气的单页视差WordPress企业主题，采用响应式布局，完美支持手机、平板和电脑端显示，浏览器支持 Chrome、Firefox、Opera、Safari 和 IE10+。内置漂亮的首页幻灯、特色内容、关于我们、客户展示、团队展示、作品展示、客户反馈、价格表、常见问答、博客文章等模块，支持自由排序模块。Businessx 主题还兼容 WooCommerce 商城插件，意味着你还可以添加网上商城功能！此外，Businessx 已做SEO优化、支持本地化翻译，还有帮助文档。</p>
+<p><a href="https://img.wpdaxue.com/2016/12/20161228085046_wpdaxue_com.png"><img title="20161228085046_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161228085046_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161228085046_wpdaxue_com_thumb.png" width="800" height="7264"></a></p>
+<ul>
+<li>Businessx 在线预览：<a title="http://demo.acosmin.com/themes/businessx/" href="http://demo.acosmin.com/themes/businessx/" target="_blank">http://demo.acosmin.com/themes/businessx/</a></li>
+<li>Businessx 官方下载：<a title="http://www.acosmin.com/theme/businessx/" href="http://www.acosmin.com/theme/businessx/" target="_blank">http://www.acosmin.com/theme/businessx/</a></li>
+<li>Businessx 帮助文档：<a title="http://www.acosmin.com/documentation/businessx/" href="http://www.acosmin.com/documentation/businessx/" target="_blank">http://www.acosmin.com/documentation/businessx/</a></li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-free-theme-businessx.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>主题八折庆双旦，大家一起贺佳节！</title>
+		<link>https://www.wpdaxue.com/happy2017.html</link>
+		<comments>https://www.wpdaxue.com/happy2017.html#comments</comments>
+		<pubDate>Fri, 23 Dec 2016 03:33:35 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[大学博客]]></category>
+		<category><![CDATA[优惠活动]]></category>
+		<category><![CDATA[祝福]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=43223</guid>
+		<description><![CDATA[又是一年佳节到！ 倡萌在这里代表WordPress大学的所有作者，祝大家节日快乐！ 为答谢大家对倡萌和Word &#8230;]]></description>
+				<content:encoded><![CDATA[<p><a href="https://img.wpdaxue.com/2016/12/11.png"><img title="11" style="float: none; margin: 0px auto; display: block" alt="11" src="https://img.wpdaxue.com/2016/12/11_thumb.png" width="750" height="400"></a></p>
+<p align="center"><strong>又是一年佳节到！</strong></p>
+<p align="center"><strong>倡萌在这里代表WordPress大学的所有作者，祝大家节日快乐！</strong></p>
+<blockquote>
+<p align="center">为答谢大家对倡萌和WordPress大学的支持，<strong>2016/12/25 至 2017/01/01</strong> 八天内购买 <a href="https://www.wpdaxue.com/shop/wordpress-theme-wpdx" target="_blank">wpdx</a>、<a href="https://www.wpdaxue.com/shop/wordpress-theme-wdlog" target="_blank">wdlog</a>、<a href="https://www.wpdaxue.com/shop/wordpress-theme-wdone" target="_blank">wdone</a> 主题，输入<strong>优惠码 happy2017</strong> 就可以<strong>享受8折优惠</strong>！</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/happy2017.html/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>使插入的FLASH视频自适应宽高度及为后台编辑器添加自定义按钮</title>
+		<link>https://www.wpdaxue.com/flash-iframe.html</link>
+		<comments>https://www.wpdaxue.com/flash-iframe.html#comments</comments>
+		<pubDate>Thu, 22 Dec 2016 00:21:32 +0000</pubDate>
+		<dc:creator><![CDATA[龙笑天下]]></dc:creator>
+				<category><![CDATA[影音播放]]></category>
+		<category><![CDATA[编辑器]]></category>
+		<category><![CDATA[视频]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=42939</guid>
+		<description><![CDATA[最近经常有网友询问，我的视频是怎样做到自适应宽高度的？在此龙笑天下就来说下具体的实现方法，及给后台文章文本编辑 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>最近经常有网友询问，我的视频是怎样做到自适应宽高度的？在此龙笑天下就来说下具体的实现方法，及给后台文章文本编辑器添加按钮的方法技巧！</p>
+<p><a href="https://img.wpdaxue.com/2016/12/how-to-insert-adaptive-video-1.jpg"><img title="how-to-insert-adaptive-video" style="float: none; margin: 0px auto; display: block" alt="how-to-insert-adaptive-video" src="https://img.wpdaxue.com/2016/12/how-to-insert-adaptive-video_thumb.jpg" width="500" height="282"></a></p>
+<p>记得我当初也发现了这样的问题，通过视频网站分享的视频代码（embed、object或iframe方式）贴到文章里发布后，在电脑上看可能会好好的，但是在手机的浏览器上看就会超出屏幕。</p>
+<p>表格还好直接用百分比就可以自适应，但是iframe的宽度属性设置了百分比的话，高度不能自适应屏幕。把高度设置成百分比，就会出现一个长方形的视频，自己试过就知道了。</p>
+<p>网上也有一大堆的解决办法，尝试了很多发现起作用的并没有几个，也没有能让我满意的适用所有网站的方法。</p>
+<p>后来终于找到一篇文章解决了这个问题，原来视频自适应这么简单，只需要一段css代码就ok了&#8230;&#8230;具体效果可<a title="查看效果" href="http://www.ilxtx.com/avicii-wake-me-up.html" target="_blank">点我</a>查看。</p>
+<h2 id="h2-0">视频自适应方法</h2>
+<p>首先，在主题的主css，如style.css中加入以下css代码：</p>
+<pre lang="php" escaped="true" line="1">.lxtx-video {
+    position:relative;
+    padding-bottom:56.25%;
+    height:0;
+    overflow:hidden;
+}
+.lxtx-video iframe,.lxtx-video object,.lxtx-video embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}</pre>
+<p>然后，后台发布视频时，<strong>建议以iframe方式引用视频网站的视频，因为iframe方式在pc端和手机端都能完美显示视频，另外2种方式就不一定了！</strong>在中文本模式编辑器里用下面的类似方法引用：</p>
+<pre lang="html4strict" escaped="true" line="1">&lt;p class="lxtx-video"&gt;&lt;iframe src="视频网站提供的iframe方式里的src链接" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;</pre>
+<p>以优酷视频为例，如这个视频：<a href="http://v.youku.com/v_show/id_XMTU2MzI4MTE5Ng==.html" rel="nofollow" target="_blank">http://v.youku.com/v_show/id_XMTU2MzI4MTE5Ng==.html</a>，用它的通用方式（也就是iframe方式），它提供的代码如下：</p>
+<pre lang="html4strict" escaped="true" line="1">&lt;iframe height=498 width=510 src="http://player.youku.com/embed/XMTU2MzI4MTE5Ng==" frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;</pre>
+<p>那么我们要在文章中插入自适应视频的话，在文本编辑器中要插入以下代码就ok了：</p>
+<pre lang="html4strict" escaped="true" line="1">&lt;p class="lxtx-video"&gt;&lt;iframe src="http://player.youku.com/embed/XMTU2MzI4MTE5Ng==" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;</pre>
+<h2 id="h2-1">方法扩展：给后台文章文本编辑器添加按钮的方法</h2>
+<p>如果我们贴视频，每次都填写这么多代码的话，那不就既枯燥又麻烦死！那么怎么解决呢？</p>
+<p>我们可以通过在后台文本编辑器上面加上一些按钮的方法来避免这种重复的输入，因为视频网站提供的视频引用代码都是有共同性的！</p>
+<p>好了，直接给出比较全的代码吧，在functions.php中加入以下代码，就可以在后台文本编辑器上面加上下面这些短代码了：</p>
+<p><a href="https://img.wpdaxue.com/2016/12/how-to-insert-adaptive-video-2-1.jpg"><img title="how-to-insert-adaptive-video-2" style="float: none; margin: 0px auto; display: block" alt="how-to-insert-adaptive-video-2" src="https://img.wpdaxue.com/2016/12/how-to-insert-adaptive-video-2_thumb.jpg" width="545" height="31"></a></p>
+<pre lang="php" escaped="true" line="1">/**
+ * 使插入的FLASH视频自适应长宽及为后台编辑器添加自定义按钮
+ * http://www.ilxtx.com/how-to-insert-adaptive-video.html
+ */
+// wordpress后台HTML编辑器添加自定义快捷标签按钮
+ add_action('after_wp_tiny_mce', 'lxtx_bolo_after_wp_tiny_mce');
+ function lxtx_bolo_after_wp_tiny_mce($mce_settings) {
+    ?&gt;
+    &lt;script type="text/javascript"&gt;    
+    QTags.addButton( 'youkushipinjm', 'youku', 
+    '&lt;p class="lxtx-video"&gt;&lt;iframe src="http://player.youku.com/embed/视频特征ID" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;\n', "" );  
+    QTags.addButton( 'acfunshipinjm', 'AcFun', 
+    '&lt;p class="lxtx-video"&gt;&lt;iframe src="http://cdn.aixifan.com/player/ACFlashPlayer.out.swf?type=page&amp;url=http://www.acfun.tv/v/视频特征ID" id="ACFlashPlayer-re" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;\n', "" );
+    QTags.addButton( 'qqshipinjm', 'QQ', 
+    '&lt;p class="lxtx-video"&gt;&lt;iframe frameborder="0" src="通用代码中的src地址" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;\n', "" );
+    QTags.addButton( 'iqiyishipinjm', '爱奇艺',
+    '&lt;p class="lxtx-video"&gt;&lt;iframe src="通用代码中的src" frameborder="0" allowfullscreen="true"&gt;&lt;/iframe&gt;&lt;/p&gt;\n', "" );
+    QTags.addButton( 'yinyuetaishipinjm', '音悦台', 
+    '&lt;p class="lxtx-video"&gt;&lt;embed src="代码中的src" quality="high" align="middle"  allowScriptAccess="sameDomain" allowfullscreen="true" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;&lt;/p&gt;\n', "" );
+    QTags.addButton( 'souhushipinjm', '搜狐', 
+    '&lt;p class="lxtx-video"&gt;&lt;iframe src="通用代码中的src" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;\n', "" );
+    QTags.addButton( '56shipinjm', '56', 
+    '&lt;p class="lxtx-video"&gt;&lt;iframe src="http://www.56.com/iframe/视频特征ID" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;/p&gt;\n', "" );
+    QTags.addButton( 'tudoushipinjm', 'tudou', 
+    '&lt;p class="lxtx-video"&gt;&lt;iframe src="iframe代码中的src" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;\n', "" ); 
+    &lt;/script&gt;
+    &lt;?php
+}</pre>
+<p>友情提示：其它视频网站根据各自视频网站提供的引用方式代码可自行增添修改吧！不仅是以上这些按钮，还可以加入一些其它的功能按钮哦！</p>
+<blockquote>
+<p>代码解析：</p>
+<pre lang="php" escaped="true" line="1">QTags.addButton( '', '', '', '' );</pre>
+<p>四对引号，分别表示按钮的ID、按钮显示名、点一下输入内容、再点一下关闭内容（最后一对引号为空则一次输入全部内容），\n表示换行；<br />形象说明： <code>QTags.addButton( ' 按钮ID', '按钮显示名', '点一下输入内容', '点一下关闭内容' );</code><br />可以自定义添加多行<code>QTags.addButton( '', '', '', '' );</code>增加多个按钮！</p>
+</blockquote>
+<p>原文：http://www.ilxtx.com/how-to-insert-adaptive-video.html</p>
+<p><span id="pv-float-bar-container"></span></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/flash-iframe.html/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>WordPress插件推荐：XML 站点地图 &#038; 谷歌新闻订阅源</title>
+		<link>https://www.wpdaxue.com/xml-sitemap-google-news-feeds.html</link>
+		<comments>https://www.wpdaxue.com/xml-sitemap-google-news-feeds.html#respond</comments>
+		<pubDate>Thu, 22 Dec 2016 00:09:08 +0000</pubDate>
+		<dc:creator><![CDATA[三好公民]]></dc:creator>
+				<category><![CDATA[网站SEO]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[网站地图]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=43052</guid>
+		<description><![CDATA[XML格式的网站地图是一个网站SEO最基础的东西，有了sitemap.xml确实对于网站的收录有帮助。三好菌之 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>XML格式的网站地图是一个网站SEO最基础的东西，有了sitemap.xml确实对于网站的收录有帮助。三好菌之前一直用的柳城的<a href="https://www.wpdaxue.com/baidu-sitemap-generator.html" target="_blank">Baidu Sitemap Generator</a>插件，但是在更换主机环境以后，发现无法生成sitemap.xml了，点击“Update XML file”按钮后一片空白。原因应该是Baidu Sitemap Generator插件与PHP7不兼容导致的。</p>
+<p>而柳城看来也没有更新该插件的打算了，因为插件官方页面的评论已经关闭了。于是三好菌只好再找其他的XML网站地图插件，在WordPress后台搜索发现“XML 站点地图 &amp; 谷歌新闻订阅源（XML Sitemap &amp; Google News Feeds）”的安装数量和好评率都还不错，于是就安装了它。结果发现还真不错。</p>
+<p>你可以先预览一下 <a href="http://www.windows10.pro/sitemap.xml" target="_blank">http://www.windows10.pro/sitemap.xml</a> ，看看效果如何。</p>
+<p>首先，“XML 站点地图 &amp; 谷歌新闻订阅源”插件的设置界面是集成在WordPress的“阅读”设置界面中的。如图：</p>
+<p><a href="//img.wpdaxue.com/2016/12/2016-12-21_083535.png"><img class="attachment-full size-full" src="//img.wpdaxue.com/2016/12/2016-12-21_083535.png" alt="WordPress插件推荐：XML 站点地图 &amp; 谷歌新闻订阅源" width="866" height="783" /></a></p>
+<p>“XML 站点地图 &amp; 谷歌新闻订阅源”插件一个很显而易见的优点就是插件的设置很傻瓜化，普通用户根本不需要任何设置，安装该插件之后就可以当甩手掌柜了。正像作者介绍中说的那样：</p>
+<blockquote><p>本插件相比起其他 XML 站点地图插件的优点便在于其<strong>简易性</strong>。它不需要你修改文件或文件夹权限，不需要移动文件或在那些困难复杂的插件选项上耗费时间。</p>
+<p>你，或是你的多站点网络的管理者，完全不需为在其他 XML 站点地图插件上才会出现的过于复杂的设置所困扰。本插件的默认设置已足以应对大多数情况，XML 站点地图中诸如 ChangeFreq 或链接优先级等指数将会根据文章发表时长与评论活动情况自动运算。</p></blockquote>
+<p>如果你进行稍复杂些的自定义，“XML 站点地图 &amp; 谷歌新闻订阅源”插件也提供了一些很实用的设置项：</p>
+<ul>
+<li><strong>额外 robots.txt 规则</strong></li>
+</ul>
+<p>方便你在WordPress默认的robots规则后追加自定义规则（规则的写法，参见《<a href="https://www.wpdaxue.com/add-robots-txt.html" target="_blank"><span style="color: #444444;">为你的 WordPress 站点添加 robots.txt</span></a>》相关内容）。</p>
+<ul>
+<li><strong>谷歌新闻站点地图</strong></li>
+</ul>
+<p>除了生成 XML 站点地图，另外还可以选择生成谷歌新闻站点地图，这对一些新闻站点还是很用的。</p>
+<p>更多的设置看下图：</p>
+<p><a href="//img.wpdaxue.com/2016/12/2016-12-21_092736.png"><img class="attachment-full size-full" src="//img.wpdaxue.com/2016/12/2016-12-21_092736.png" alt="WordPress插件推荐：XML 站点地图 &amp; 谷歌新闻订阅源" width="677" height="723" /></a></p>
+<ul>
+<li><strong>包含的文章类型、分类</strong></li>
+</ul>
+<p>你可以选择sitemap.xml文件中包含的文章类型，以及是否包含分类目录和标签。</p>
+<ul>
+<li><strong>允许的域名</strong></li>
+</ul>
+<p>你的网站中会有其他域名的链接，例如 <a href="https://www.wpdaxue.com/page-links-to.html" target="_blank">Page Links To 插件</a>的自定义链接，如果想被包含在站点地图中，可以添加到文本框中。</p>
+<ul>
+<li><strong>包含自定义链接</strong></li>
+</ul>
+<p>可以把自定义链接添加进站点地图并设置优先级。</p>
+<ul>
+<li><strong>包含自定义的 XML 站点地图</strong></li>
+</ul>
+<p>你如果手工制作的还有其它XML地图，那么可以添加到这里，它会被追加到主XML站点地图中。</p>
+<p>你可以在WordPress后台“安装插件”页面搜索“XML Sitemap &amp; Google News feeds”，或者到 <a href="https://wordpress.org/plugins/xml-sitemap-feed/" target="_blank">WordPress.org插件页面</a> 查看详情和手动下载。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/xml-sitemap-google-news-feeds.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>替换 WordPress 的编辑器为百度 UEditor 编辑器</title>
+		<link>https://www.wpdaxue.com/wordpress-baidu-ueditor.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-baidu-ueditor.html#comments</comments>
+		<pubDate>Thu, 15 Dec 2016 23:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[后台定制]]></category>
+		<category><![CDATA[TinyMCE]]></category>
+		<category><![CDATA[UEditor]]></category>
+		<category><![CDATA[百度]]></category>
+		<category><![CDATA[编辑器]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=42666</guid>
+		<description><![CDATA[不少国人吐槽 WordPress 自带的 TinyMCE 编辑器不好用，想要替换为百度的 UEditor 编辑 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>不少国人吐槽 WordPress 自带的 TinyMCE 编辑器不好用，想要替换为百度的 UEditor 编辑器，好吧，今天倡萌就推荐一款 UEditor 编辑器插件，让你可以替换 WordPress 后台的编辑器为百度 UEditor 编辑器。</p>
+<blockquote>
+<p>强大的百度开源富文本编辑器Ueditor正式登陆wordpress！此插件最早由taoqili开发，SamLiu改进,但两位作者均不再发布更新版本，大山在此基础上更新到Ueditor1.4.3.3。在此感谢三位前辈的付出，我（<a href="http://www.yangshengliang.com/kaiyuan-shijie/zuopin/399.html" target="_blank">杨圣亮</a>）在前几位的基础上添加了KityFormula数学公式插件。</p>
+</blockquote>
+<p>就使用感受来说，速度、稳定性均优于其他wordpress编辑器插件，故拿出来和大家分享。此插件已经支持到最新版本wordpress4.6，理论上是不支持wordpress3.3以下版本，另外Ueditor1.4.3以上版本将不再承诺支持ie6/ie7。 </p>
+<p>百度Ueditor编辑器wordpress插件编辑界面内容框增加了滚动条，默认自动宽度，高度500px，如需更改请修改配置文件editor_config.js。 </p>
+<p><img title="20161210082608_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161210082608_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161210082608_wpdaxue_com.png" width="1043" height="474"> </p>
+<p>该版本<strong>集成百度kityformula,添加对数学公式的支持。</strong> </p>
+<p><img title="20161215213412_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161215213412_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161215213412_wpdaxue_com.png" width="855" height="561"> </p>
+<ul>
+<li>演示地址：<a href="http://www.yangshengliang.com/tools/UEditor-KityFormula/" target="_blank">UEditor-KityFormula演示</a></li>
+<li>下载地址：<a href="https://git.oschina.net/jinayang/UEditor-KityFormula-for-wordpress" target="_blank">UEditor-KityFormula for wordpress2.0.1下载</a></li>
+<li>插件发布地址：<a title="http://www.yangshengliang.com/kaiyuan-shijie/zuopin/399.html" href="http://www.yangshengliang.com/kaiyuan-shijie/zuopin/399.html" target="_blank">http://www.yangshengliang.com/kaiyuan-shijie/zuopin/399.html</a></li>
+<li>解压缩包到wordpress插件文件夹。最终的路径像这样：/wp-content/plugins/UEditor-KityFormula，也可以直接在后台通过插件上传进行安装。</li>
+</ul>
+<blockquote>
+<p>倡萌测试发现，UEditor 编辑器上传的图片没有在WordPress的媒体库插入数据信息，也就是你在 多媒体 &#8211; 媒体库 下是看不到上传的图片的。</p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-baidu-ueditor.html/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>禁用 WordPress 4.7 新增的PDF缩略图预览功能</title>
+		<link>https://www.wpdaxue.com/disable-pdf-thumbnail-previews-in-wordpress.html</link>
+		<comments>https://www.wpdaxue.com/disable-pdf-thumbnail-previews-in-wordpress.html#comments</comments>
+		<pubDate>Tue, 13 Dec 2016 23:55:39 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[后台定制]]></category>
+		<category><![CDATA[PDF]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=42527</guid>
+		<description><![CDATA[WordPress 4.7 新增了一个PDF缩略图生成和预览功能，上传PDF文件后，会自动生成这个PDF文件的 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>WordPress 4.7 新增了一个PDF缩略图生成和预览功能，上传PDF文件后，会自动生成这个PDF文件的缩略图，并显示预览，如下图：</p>
+<p><img title="20161214074826_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161214074826_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161214074826_wpdaxue_com.png" width="521" height="320"></p>
+<p>但是如果你已经在使用其他PDF插件实现了类似的功能，并且不希望与这个新增的功能有冲突，你可能想要禁用掉 WordPress 4.7 新增的PDF缩略图预览功能。实现的方法很简单，在你当前主题的 functions.php 文件添加如下代码即可：</p>
+<pre lang="php" escaped="true" line="1">/**
+ * Disable PDF Thumbnail Previews in WordPress
+ * http://www.wpbeginner.com/wp-tutorials/how-to-disable-pdf-thumbnail-previews-in-wordpress/
+ */
+function wpb_disable_pdf_previews() {  
+    $fallbacksizes = array();  
+    return $fallbacksizes;  
+}  
+add_filter('fallback_intermediate_image_sizes', 'wpb_disable_pdf_previews');</pre>
+<p>然后你上传PDF文件后，插入界面如下图所示：</p>
+<p><img title="20161214074850_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161214074850_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161214074850_wpdaxue_com.png" width="522" height="308"></p>
+<p>参考出自：<a title="http://www.wpbeginner.com/wp-tutorials/how-to-disable-pdf-thumbnail-previews-in-wordpress/" href="http://www.wpbeginner.com/wp-tutorials/how-to-disable-pdf-thumbnail-previews-in-wordpress/" target="_blank">http://www.wpbeginner.com/wp-tutorials/how-to-disable-pdf-thumbnail-previews-in-wordpress/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/disable-pdf-thumbnail-previews-in-wordpress.html/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>WordPress解决优酷、土豆视频移动端观看问题并自适应</title>
+		<link>https://www.wpdaxue.com/wp-iframe-handler-youku-tudou.html</link>
+		<comments>https://www.wpdaxue.com/wp-iframe-handler-youku-tudou.html#respond</comments>
+		<pubDate>Tue, 13 Dec 2016 23:42:04 +0000</pubDate>
+		<dc:creator><![CDATA[HOT HEART]]></dc:creator>
+				<category><![CDATA[影音播放]]></category>
+		<category><![CDATA[优酷]]></category>
+		<category><![CDATA[土豆]]></category>
+		<category><![CDATA[视频]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=42243</guid>
+		<description><![CDATA[虽然WordPress能直接插入优酷、土豆的视频但是无法在移动端观看,于是乎笨笨就开始各种折腾终于找到了合适的 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>虽然WordPress能直接插入优酷、土豆的视频但是无法在移动端观看,于是乎笨笨就开始各种折腾终于找到了合适的解决办法<br />另外在说一句支持移动端自适应哦</p>
+<h2>函数代码</h2>
+<p>在主题函数文件<code>function.php</code>里面添加以下代码即可，保证在最后一个?<code>&gt;</code>之前就好了</p>
+<pre lang="php" escaped="true" line="1">//Youku
+function wp_iframe_handler_youku($matches, $attr, $url, $rawattr) {
+    if (wp_is_mobile()) {
+        $height = 200;
+    } else {
+        $height = 485;
+    }
+    $iframe = '&lt;iframe width=100% height=' . esc_attr($height) . 'px src="http://player.youku.com/embed/' . esc_attr($matches[1]) . '" frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;';
+    return apply_filters('iframe_youku', $iframe, $matches, $attr, $url, $ramattr);
+}
+wp_embed_register_handler('youku_iframe', '#http://v.youku.com/v_show/id_(.*?).html#i', 'wp_iframe_handler_youku');
+// Tudou
+function wp_iframe_handler_tudou($matches, $attr, $url, $rawattr) {
+    if (wp_is_mobile()) {
+        $height = 200;
+    } else {
+        $height = 485;
+    }
+    $iframe = '&lt;iframe width=100% height=' . esc_attr($height) . 'px src="http://www.tudou.com/programs/view/html5embed.action?code=' . esc_attr($matches[1]) . '" frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;';
+    return apply_filters('iframe_tudou', $iframe, $matches, $attr, $url, $ramattr);
+}
+wp_embed_register_handler('tudou_iframe', '#http://www.tudou.com/programs/view/(.*?)/#i', 'wp_iframe_handler_tudou');
+//Remove zh_CN Default handler
+wp_embed_unregister_handler('youku');
+wp_embed_unregister_handler('tudou');</pre>
+<h2>视频添加方法</h2>
+<blockquote>
+<p>虽然应该都知道但是还是说一下吧 直接在可视化下添加链接就OK http://v.youku.com/v_show/id_XMTQzOTU2NDg1Mg==.html</p>
+</blockquote>
+<h2>效果浏览</h2>
+<p><img title="20161212073856_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161212073856_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161212073856_wpdaxue_com.png" width="719" height="493"></p>
+<blockquote>
+<p>注：WordPress大学 采用https链接，但是优酷不支持，所以以上是图片，如果要看真实的预览，请访问原文 <a title="http://www.hibenben.com/4462.html" href="http://www.hibenben.com/4462.html" target="_blank">http://www.hibenben.com/4462.html</a></p>
+</blockquote>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wp-iframe-handler-youku-tudou.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>使用 WP Downgrade 在线降级 WordPress 到旧版本</title>
+		<link>https://www.wpdaxue.com/wp-downgrade.html</link>
+		<comments>https://www.wpdaxue.com/wp-downgrade.html#respond</comments>
+		<pubDate>Sat, 10 Dec 2016 00:05:02 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[网站维护]]></category>
+		<category><![CDATA[wordpress更新]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=42182</guid>
+		<description><![CDATA[我们都知道，每当WordPress有新本的时候，我们都可以在后台一键更新。但是有些时候，我们的主题或插件可能不 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>我们都知道，每当WordPress有新本的时候，我们都可以在后台一键更新。但是有些时候，我们的主题或插件可能不兼容新版本的WP，这时候我们如果要降级为之前的旧版本，该怎么操作呢？下面一起来看看。</p>
+<blockquote>
+<p>重要提示：不管是升级还是降级，操作前，请务必备份你的网站数据，尤其是网站的数据库，以防万一！</p>
+</blockquote>
+<h2>手动降级</h2>
+<p>倡萌之前就介绍过手动降级的方法，具体请看：</p>
+<p><a title="https://www.wpdaxue.com/wordpress-manually-update.html" href="https://www.wpdaxue.com/wordpress-manually-update.html" target="_blank">https://www.wpdaxue.com/wordpress-manually-update.html</a></p>
+<h2>在线降级</h2>
+<p>所谓在线降级，就是和一键更新到新版本一样操作。但是我们需要借助 <a href="https://wordpress.org/plugins/wp-downgrade/" target="_blank">WP Downgrade</a> 插件来实现，所以首先要安装并且启用WP Downgrade。然后访问 设置 &#8211; WP Downgrade 菜单，设置我们要降级的版本。</p>
+<p>比如倡萌从 4.7 降级到 4.6.1，就可以按照下图填入 4.6.1，然后点击“保存更改”：</p>
+<blockquote>
+<p>可以访问这个页面查看 WordPress 的版本信息：<a title="https://wordpress.org/download/release-archive/" href="https://wordpress.org/download/release-archive/" target="_blank">https://wordpress.org/download/release-archive/</a></p>
+</blockquote>
+<p><img title="20161210073900_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161210073900_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161210073900_wpdaxue_com.png" width="791" height="565"></p>
+<p>注意看上图底部的红色信息：<strong>提示简体中文的 4.6.1 下载链接不存在</strong>，这时候，我们可以访问 设置 &#8211; 常规，修改语言为英文，然后保存：</p>
+<p><img title="20161210073618_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161210073618_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161210073618_wpdaxue_com.png" width="658" height="306"></p>
+<p>接着访问 Dashboard – Updates 界面，点击 “RE-install Now”，即可开始重新安装指定的旧版本：</p>
+<blockquote>
+<p>不用担心语言的问题，安装英文原版后，我们的语言包文件并不会丢失的！</p>
+</blockquote>
+<p><img title="20161210074033_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161210074033_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161210074033_wpdaxue_com.png" width="777" height="356"></p>
+<p>等安装好以后，我们<strong>再访问 Settings – General 界面，将语言修改为 简体中文 ，保存后就可以看到之前的简体中文界面</strong>啦！</p>
+<p>好了，就是这样操作啦！如果一切OK了，你就可以卸载掉 WP Downgrade 插件了。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wp-downgrade.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>简洁黑白WordPress免费博客主题 Personal</title>
+		<link>https://www.wpdaxue.com/wordpress-blog-theme-personal.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-blog-theme-personal.html#respond</comments>
+		<pubDate>Wed, 07 Dec 2016 03:34:37 +0000</pubDate>
+		<dc:creator><![CDATA[设计窝]]></dc:creator>
+				<category><![CDATA[WordPress主题]]></category>
+		<category><![CDATA[免费主题]]></category>
+		<category><![CDATA[博客主题]]></category>
+		<category><![CDATA[响应式主题]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=41981</guid>
+		<description><![CDATA[Personal 是一款简单的博客主题，用来做一个个人博客再适合不过. 主题特色 支持 IE8+、Firefo &#8230;]]></description>
+				<content:encoded><![CDATA[<p><a href="//img.wpdaxue.com/2016/12/personal22.png"><img class="attachment-full size-full" src="//img.wpdaxue.com/2016/12/personal22.png" alt="personal22" width="1100" height="609" /></a></p>
+<p>Personal 是一款简单的博客主题，用来做一个个人博客再适合不过.</p>
+<h2>主题特色</h2>
+<ol>
+<li>支持 IE8+、Firefox Chrome等主流浏览器；</li>
+<li><strong>自动适配PC、手机设备，实现高效浏览</strong>；</li>
+<li>支持 WordPress 3.7 以上，完美支持最新的WordPress 4.6+；</li>
+<li>nprogress.js 模拟页面加载动画（<a href="http://ricostacruz.com/nprogress/" target="_blank">http://ricostacruz.com/nprogress/</a>）；</li>
+<li>支持一键全站变灰；</li>
+<li>后台上传多媒体文件自动重命名一键开启；</li>
+<li>后台列表一键开启缩略图显示；</li>
+<li>内置多个自定义代码板块，实现不动任何源码完成各种认证和第三方代码添加；</li>
+<li>集成了最新版本的FontAwesome Version 4.7.0 字体图标库（查看图标列表：<a href="http://fontawesome.io/" target="_blank">http://fontawesome.io/</a>）；</li>
+<li>自定义菜单可PC、手机分开配置；</li>
+<li>便捷的SEO功能设置；</li>
+<li>集成<a href="https://github.com/toddmotto/echo" target="_blank">Echo.js</a>，实现图片延缓加载，并可自定义默认图标；</li>
+<li>强大的主题后台管理面板；</li>
+<li>自定义WordPress自带登陆页美化设置；</li>
+</ol>
+<h2 class="post_h2">演示站所用插件</h2>
+<ol>
+<li>喜欢插件：Like This （https://wordpress.org/plugins/roses-like-this/）</li>
+<li>阅读量插件：WP-PostViews （https://wordpress.org/plugins/wp-postviews/）</li>
+<li>评论框插件：多说 （https://wordpress.org/plugins/duoshuo/）</li>
+<li>分类链接去除“Category”插件：WP No Category Base （https://wordpress.org/plugins/no-category-base-wpml/）</li>
+<li>代码高亮插件：Crayon Syntax Highlighter （https://wordpress.org/plugins/crayon-syntax-highlighter/）</li>
+</ol>
+<ul>
+<li>演示地址：<a href="http://www.jacall.net/" target="_blank">http://www.jacall.net/</a></li>
+<li>下载地址：<a href="http://pan.baidu.com/s/1eR2fDbs" target="_blank">http://pan.baidu.com/s/1eR2fDbs</a></li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-blog-theme-personal.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress 4.7 正式版发布</title>
+		<link>https://www.wpdaxue.com/wordpress-4-7.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-4-7.html#comments</comments>
+		<pubDate>Wed, 07 Dec 2016 00:02:20 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[WordPress资讯]]></category>
+		<category><![CDATA[WordPress 4.7]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=41995</guid>
+		<description><![CDATA[WordPress 4.7 正式版已经发布，该版本命名为“Vaughan”，用以纪念传奇的爵士乐歌手Sarah &#8230;]]></description>
+				<content:encoded><![CDATA[<p>WordPress 4.7 正式版已经发布，该版本命名为“Vaughan”，用以纪念传奇的爵士乐歌手Sarah“Sassy”Vaughan。一起看下宣传视频：</p>
+<p><iframe height="498" src="https://v.qq.com/iframe/player.html?vid=z0353lit8ut&amp;tiny=0&amp;auto=0" frameborder="0" width="640" allowfullscreen></iframe></p>
+<p>关于 WordPress 4.7&nbsp; 的主要更新内容，大家可以回顾下&nbsp; <a href="https://www.wpdaxue.com/tag/wordpress-4-7/" target="_blank">WordPress 4.7 相关文章</a>。</p>
+<p>相信很快就可以在后台看到更新推荐了，或者你可以<a href="https://wordpress.org/wordpress-4.7.zip">点击下载 WordPress 4.7</a> 进行手动更新。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-4-7.html/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>WordPress 非常强大的免费杂志CMS主题 ionMag</title>
+		<link>https://www.wpdaxue.com/wordpress-theme-ionmag.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-theme-ionmag.html#comments</comments>
+		<pubDate>Sat, 03 Dec 2016 23:44:45 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[WordPress主题]]></category>
+		<category><![CDATA[cms主题]]></category>
+		<category><![CDATA[免费主题]]></category>
+		<category><![CDATA[响应式主题]]></category>
+		<category><![CDATA[杂志主题]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=41872</guid>
+		<description><![CDATA[倡萌此前推荐过不少免费的 WordPress 杂志CMS主题，但是今天推荐的 ionMag 可以说是其中最为强 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>倡萌此前推荐过不少免费的 WordPress 杂志CMS主题，但是今天推荐的 ionMag 可以说是其中最为强大的。一起来看看它的几个功能：</p>
+<p><strong>完全响应式布局</strong> &#8211; 在手机、平板和电脑界面都能完美展示</p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161130203229_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161130203229_wpdaxue_com.png" alt="20161130203229_wpdaxue_com" width="750" height="400" /></p>
+<p><strong>可视化前端页面生成器</strong> &#8211; 你完全可以在可视化的情况下设置页面的布局、内容模块等等：</p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161204072955_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161204072955_wpdaxue_com.png" alt="20161204072955_wpdaxue_com" width="865" height="589" /></p>
+<p><strong>多种页眉样式</strong> &#8211; 内置了多种不同的页面样式</p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161204072839_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161204072839_wpdaxue_com.png" alt="20161204072839_wpdaxue_com" width="992" height="411" /></p>
+<p><strong>多个特色小工具</strong> &#8211; 社交媒体统计小工具、作者盒子小工具、广告小工具等</p>
+<p><strong>强大的主题设置面板</strong> &#8211; 直观界面，让你可以设置主题的所有功能和自定义网站，不需要修改任何代码。</p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161204073414_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161204073414_wpdaxue_com.png" alt="20161204073414_wpdaxue_com" width="611" height="489" /></p>
+<p><strong>多样化的滑块轮播</strong> &#8211; 可以选择你喜欢的滑块展示需要的内容</p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161204073617_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161204073617_wpdaxue_com.png" alt="20161204073617_wpdaxue_com" width="1013" height="291" /></p>
+<p><strong>多样化内容模块</strong> &#8211; 内置了多种样式的内容模块，还可以设置不同的内容来显示等等</p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161204073824_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161204073824_wpdaxue_com.png" alt="20161204073824_wpdaxue_com" width="664" height="294" /></p>
+<p><strong>漂亮的手机端菜单</strong> &#8211; 移动注册和登录从未如此简单。你不需要一个插件。我们添加了一个引人入胜和可自定义的移动菜单，其中包括用户友好的注册和登录界面。现在是时候改变用户体验您的网站的方式！</p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161204074025_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161204074025_wpdaxue_com.png" alt="20161204074025_wpdaxue_com" width="621" height="288" /></p>
+<p>好了，说来这么多，让我们看看完整的预览图：</p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161130203604_wpdaxue_com" src="https://img.wpdaxue.com/2016/12/20161130203604_wpdaxue_com.png" alt="20161130203604_wpdaxue_com" width="800" height="3609" /></p>
+<p>我相信这个主题足够吸引你啦！</p>
+<ul>
+<li>ionMag 主题在线演示：<a title="http://demo.tagdiv.com/ionmag/" href="http://demo.tagdiv.com/ionmag/" target="_blank">http://demo.tagdiv.com/ionmag/</a></li>
+<li>ionMag 主题下载：<a title="https://www.wpion.com/free-news-theme/" href="https://www.wpion.com/free-news-theme/" target="_blank">https://www.wpion.com/free-news-theme/</a> | <a href="http://cdn.tagdiv.com/wp-content/uploads/2016/10/IonMag.zip">点击直接下载主题包</a>（可能是旧版本）</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-theme-ionmag.html/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>WordPress Easy Digital Downloads 微信支付网关</title>
+		<link>https://www.wpdaxue.com/shop/easy-digital-downloads-weixin-gateway/</link>
+		<comments>https://www.wpdaxue.com/shop/easy-digital-downloads-weixin-gateway/#comments</comments>
+		<pubDate>Thu, 01 Dec 2016 11:56:51 +0000</pubDate>
+		<dc:creator><![CDATA[xunhuweb]]></dc:creator>
+		
+		<guid isPermaLink="false">https://www.wpdaxue.com/?post_type=download&#038;p=41679</guid>
+		<description><![CDATA[Easy Digital Downloads，其含义是“轻松数字下载”。使用WordPress Easy Di &#8230;]]></description>
+				<content:encoded><![CDATA[<p><a href="https://www.wpdaxue.com/easy-digital-downloads.html" target="_blank">Easy Digital Downloads</a>，其含义是“轻松数字下载”。使用WordPress Easy Digital Downloads插件搭建的网站主要实现在线销售虚拟资源（比如WP大学就是采用的Easy Digital Downloads插件），包括但不限于图片素材、网站模板、设计资源、视频素材，软件下载等等；我们专门为中国Easy Digital Downloads用户开发了 Easy Digital Downloads <a href="https://www.wpdaxue.com/shop/easy-digital-downloads-weixin-gateway">微信</a>和<a href="https://www.wpdaxue.com/shop/edd-alipay" target="_blank">支付宝支付插件</a>，满足中国用户需求。</p>
+<h2>功能描述</h2>
+<ul class="mT10">
+<li>Easy Digital Downloads微信支付网关，完美兼容</li>
+<li>PC端支持微信扫码支付</li>
+<li><span class="red">微信端支持H5公众号支付</span></li>
+<li>支持汇率换算</li>
+<li>多重安全验证，让交易更安全</li>
+<li>适合任意Easy Digital Downloads主题</li>
+</ul>
+<h2 class="page-header">插件演示体验</h2>
+<p>支付体验：<a href="http://www.dpweixin.com/download/4751.html" target="_blank"> Easy Digital Downloads 微信支付</a></p>
+<h2 class="page-header">插件截图</h2>
+<p><a href="//img.wpdaxue.com/2016/12/edd-pro-1.jpg"><img class="attachment-full size-full aligncenter" src="//img.wpdaxue.com/2016/12/edd-pro-1.jpg" alt="edd-pro-1" width="678" height="597" /></a></p>
+<p style="text-align: center">Easy Digital Downloads 支付网关选择</p>
+<p><a href="//img.wpdaxue.com/2016/12/edd-weixin-1.jpg"><img class="attachment-full size-full" src="//img.wpdaxue.com/2016/12/edd-weixin-1.jpg" alt="edd-weixin" width="689" height="575" /></a></p>
+<p style="text-align: center">Easy Digital Downloads微信支付设置</p>
+<p><a href="//img.wpdaxue.com/2016/12/woocommerce-pic-3.jpg"><img class="attachment-full size-full aligncenter" src="//img.wpdaxue.com/2016/12/woocommerce-pic-3.jpg" alt="woocommerce-pic-3" width="825" height="713" /></a></p>
+<p style="text-align: center">扫码支付和公众号支付</p>
+<h2>技术支持</h2>
+<ul class="mT10">
+<li>购买该插件，可获得全程技术支持，保证正常使用</li>
+</ul>
+<h2 class="page-header">授权方式</h2>
+<ul class="mT10">
+<li>授权方式：站点授权;</li>
+<li>授权价格：<span class="red font20">¥149</span>/站点</li>
+</ul>
+<h2 class="page-header">更新升级</h2>
+<ul class="mT10">
+<li>1年内免费升级</li>
+<li>第二年升级收取插件价格的20%，不升级不影响使用。（目前暂时没收费）</li>
+</ul>
+<h2>其他说明</h2>
+<ul>
+<li>系统环境要求：PHP5.4以上的版本</li>
+<li>插件已加密，但不影响二次开发，加密不依赖zend框架</li>
+<li>请遵守迅虎网络软件产品版权协议</li>
+<li>购买后加QQ：6347007 获取插件和授权文件</li>
+<li>本商品可开普通增值税发票，请购买后联系发票事宜（500元以下的金额，发票需支付邮费或到付。）</li>
+</ul>
+<blockquote>
+<p><strong>注：本商品由 迅虎网络（QQ：6347007） 投放销售，一切售后均由 迅虎网络 提供，本站（WordPress大学）不负责售后服务，请知悉，谢谢。</strong></p>
+</blockquote>
+<p>你还可以访问购买 <a href="https://www.wpdaxue.com/shop/edd-alipay" target="_blank">Easy Digital Downloads 支付宝网关</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/shop/easy-digital-downloads-weixin-gateway/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>基于 WooCommerce 的商城主题 WP Store</title>
+		<link>https://www.wpdaxue.com/woocommerce-theme-wp-store.html</link>
+		<comments>https://www.wpdaxue.com/woocommerce-theme-wp-store.html#comments</comments>
+		<pubDate>Mon, 28 Nov 2016 01:34:44 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[WordPress主题]]></category>
+		<category><![CDATA[WooCommerce]]></category>
+		<category><![CDATA[免费主题]]></category>
+		<category><![CDATA[响应式主题]]></category>
+		<category><![CDATA[商城主题]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=41421</guid>
+		<description><![CDATA[WP Store 是一款功能强大的免费的 WordPress 商城主题，它的商城功能是基于 WooCommer &#8230;]]></description>
+				<content:encoded><![CDATA[<p>WP Store 是一款功能强大的免费的 WordPress 商城主题，它的商城功能是基于 WooCommerce 商城插件实现的，也就是说，借助 WP Store 主题和 WooCommerce 插件就可以搭建出一个商城网站！WP Store 采用响应式设计，在手机、平板和电脑中都可以完美显示，首页支持通过 外观 &#8211; 小工具 进行定制，具有幻灯等，设置选项非常简单。所有的细节都做得很到位，如果你真的打算搭建一个商城网站的话，不妨试试 WP Store ！</p>
+<p><img title="20161128092353_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161128092353_wpdaxue_com" src="https://img.wpdaxue.com/2016/11/20161128092353_wpdaxue_com.png" width="800" height="3158"></p>
+<ul>
+<li>WP Store 在线预览：<a title="https://8degreethemes.com/demo/wp-store/" href="https://8degreethemes.com/demo/wp-store/" target="_blank">https://8degreethemes.com/demo/wp-store/</a></li>
+<li>WP Store 下载：<a title="https://8degreethemes.com/free-wordpress-themes/wp-store.zip" href="https://8degreethemes.com/free-wordpress-themes/wp-store.zip">https://8degreethemes.com/free-wordpress-themes/wp-store.zip</a></li>
+<li>WP Store 帮助文档：<a title="https://8degreethemes.com/documentation/wp-store/" href="https://8degreethemes.com/documentation/wp-store/" target="_blank">https://8degreethemes.com/documentation/wp-store/</a></li>
+<li>WP Store 官方发布：<a title="https://8degreethemes.com/wordpress-themes/wp-store/" href="https://8degreethemes.com/wordpress-themes/wp-store/" target="_blank">https://8degreethemes.com/wordpress-themes/wp-store/</a></li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/woocommerce-theme-wp-store.html/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>WordPress 简单大气博客主题 Zillah</title>
+		<link>https://www.wpdaxue.com/wordpress-blog-theme-zillah.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-blog-theme-zillah.html#respond</comments>
+		<pubDate>Sun, 27 Nov 2016 01:35:01 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[WordPress主题]]></category>
+		<category><![CDATA[免费主题]]></category>
+		<category><![CDATA[博客主题]]></category>
+		<category><![CDATA[响应式主题]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=41339</guid>
+		<description><![CDATA[Zillah 是一款设计非常简洁大气的WordPress博客主题，一眼看上去就很喜欢这种干净的界面，主题可以设 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>Zillah 是一款设计非常简洁大气的WordPress博客主题，一眼看上去就很喜欢这种干净的界面，主题可以设置为单栏或双栏，自带首页滑块，可以设置精选文章。Zillah 采用响应式布局，在手机、平板和电脑端都可以很好地显示。兼容免费的 SiteOrigin 页面生成器，你可以借助它来实现更灵活的布局。Zillah 有一个强大，响应和用户友好的大型菜单，使其很容易安排和组织您的子菜单内容。此外，您可以完全控制您的菜单的设计和结构。还支持一键导入演示数据、一键升级，SEO优化、支持汉化等，搭建你的专属博客一定很不错！</p>
+<p><img title="20161127090638_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161127090638_wpdaxue_com" src="https://img.wpdaxue.com/2016/11/20161127090638_wpdaxue_com.png" width="800" height="3562"></p>
+<p>Zillah 主题在线预览：<a title="https://demo.themeisle.com/zillah/" href="https://demo.themeisle.com/zillah/" target="_blank">https://demo.themeisle.com/zillah/</a></p>
+<p>Zillah 主题下载：<a title="https://themeisle.com/themes/zillah/" href="https://themeisle.com/themes/zillah/" target="_blank">https://themeisle.com/themes/zillah/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-blog-theme-zillah.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress 4.7 RC候选版发布</title>
+		<link>https://www.wpdaxue.com/wordpress-4-7-release-candidate.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-4-7-release-candidate.html#respond</comments>
+		<pubDate>Thu, 24 Nov 2016 09:58:18 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[WordPress资讯]]></category>
+		<category><![CDATA[WordPress 4.7]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=41204</guid>
+		<description><![CDATA[来自 WordPress 官方消息，WordPress 4.7 RC候选版已经发布了，候选版的发布意味着这个可 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>来自 WordPress 官方消息，WordPress 4.7 RC候选版已经发布了，候选版的发布意味着这个可能就是最终的正式版了，是时候开始测试这个版本了哦！如果没有什么意外的话，WordPress 4.7 正式版将在美国时间12月6日发布！</p>
+<p>如果你一直在关注 WordPress 官方或者 WordPress大学网站的话，你应该知道了 WordPress 4.7 的主要改进：新主题，视频头部，外观-自定义支持自定义CSS、快捷编辑，PDF自动生成预览图，用户自定义后台语言，集成REST API 内容终端，新增文章类型模板（和页面模板类似）等等。如果还没有，那你可以看下 <a href="https://www.wpdaxue.com/tag/wordpress-4-7/" target="_blank">WordPress 4.7 相关文章</a>。</p>
+<p><a href="https://wordpress.org/wordpress-4.7-RC1.zip">点击下载 WordPress 4.7 RC</a> 进行测试吧，让我们一起期待 WordPress 4.7 正式版的到来！</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-4-7-release-candidate.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress大学四岁啦，感谢有你相伴</title>
+		<link>https://www.wpdaxue.com/wpdaxue-4-years.html</link>
+		<comments>https://www.wpdaxue.com/wpdaxue-4-years.html#comments</comments>
+		<pubDate>Thu, 24 Nov 2016 05:29:23 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[大学博客]]></category>
+		<category><![CDATA[周年总结]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=41167</guid>
+		<description><![CDATA[这是一篇迟到的生日总结，直到今天查询网站信息才知道：WordPress大学 已经四岁了！非常感谢大家一直以来的 &#8230;]]></description>
+				<content:encoded><![CDATA[<p>这是一篇迟到的生日总结，直到今天查询网站信息才知道：WordPress大学 已经四岁了！非常感谢大家一直以来的陪伴和支持！相信很多老朋友都很清楚，WordPress大学 的这四年成长并不是非常顺利，倡萌的确想说说关于它的成长故事，也是我自己的成长故事。</p>
+<p>倡萌是在 <strong>2010年4月开始接触 WordPress</strong>，用它搭建了自己的个人博客【<a href="https://www.cmhello.com" target="_blank">倡萌的自留地</a>】，并深深被 WordPress 吸引了，或许这将是一生的牵绊……</p>
+<p><strong>2011年7月</strong>，倡萌从武汉大学<strong>毕业离校</strong>了，但一直没找到工作，迫于无奈，直接去深圳亲戚家的一个小工厂干苦力，期间（2012年1月）发布了<a href="https://www.cmhello.com/hcms-theme-coming.html" target="_blank"><strong>hcms</strong></a><strong>免费主题</strong>。</p>
+<p>2012过年后还是回到深圳找工作，没想到最后进入了找工作的人才市场上班，这是我第一份正式的工作，在这里我得到了很好的锻炼，人际交往能力得到很大提升，也找回了自信。<strong>2012年9月2日</strong>，发布了<strong>第一款收费主题 </strong><a href="https://www.cmhello.com/hocean-theme.html" target="_blank"><strong>Hocean</strong></a> （100元/份），没想到得到了不少朋友的支持，半个多月就卖出了近20份 &#8211; 将近<strong>2000元</strong> &#8211; 这是倡萌<strong>通过WordPress获得的第一桶金</strong>！这段时间，倡萌不淡定了，我开始思考，这或许是我一直在找寻的路子！</p>
+<p><strong>2012年9月26日</strong>，我毅然决然地<strong>辞职了</strong>（领导不理解，为什么不做完9月再辞职，但是我很清楚，我的心已经不在工作上了，我迫不及待要开始实践了），然后猫在小出租屋里，<strong>2012年9月27日注册了 wpdaxue.com 这个域名，2012年10月2日，WordPress大学 网站正式上线</strong>，发布第一篇文章《<a href="https://www.wpdaxue.com/why-wpdaxue.html" target="_blank">开山篇：为什么要创办WordPress大学？</a>》，然后开始以每天2-3篇文章的速度更新网站，同时制作并于 <strong>2012年10月18日发布第二款收费主题 </strong><a href="https://www.cmhello.com/htwo-theme.html" target="_blank"><strong>Hwo_pro</strong></a>（每份120元，截至2013年8月停售，共销售80份，收益9000多元）。</p>
+<p>2012年11月23日，WordPress大学 第一次更换主题 wpdaxue：</p>
+<p><img style="float: none; margin-left: auto; display: block; margin-right: auto;" src="https://img.wpdaxue.com/2013/07/wpdaxue-theme-wpdaxue_com.png" /></p>
+<blockquote><p>此时WordPress大学的文章才 60 篇，收录正常，日访问量 100 IP 左右，PR 2 ，ALEXA 全球排名 782,734 并不断上升。</p></blockquote>
+<p>2013年1月15日，<a href="https://www.wpdaxue.com/wpdaxue-com-pass-beian.html" target="_blank">完成备案并入住阿里云</a>。</p>
+<p>2013年2月9日-19日，<a href="https://www.wpdaxue.com/sorry-for-502.html" target="_blank">服务器宕机</a>，无法及时处理，导致大学网站无法访问。</p>
+<p>2013年5月21日，发布第三款收费主题 cmhello（每份149元，这款主题最终售出80份左右）</p>
+<p>2013年7月11日，WordPress大学第二次更换主题 <a href="https://www.wpdaxue.com/shop/wordpress-theme-wpdx" target="_blank">wpdx</a>，不久后上线销售该主题（目前该主题仍在更新销售）：</p>
+<p><img style="float: none; margin-left: auto; display: block; margin-right: auto;" src="https://img.wpdaxue.com/2014/10/2014-10-04_082100.png" /></p>
+<p>2013年08月29日：<a href="https://www.wpdaxue.com/open-register.html" target="_blank"><strong>开放注册</strong></a>，逐步完善前端用户中心，并邀请用户投放收费主题销售</p>
+<p>2013年10月2日：有 573 篇文章（其中 9 篇稿件），注册用户 290人，日IP 1000+，pv 4500+</p>
+<p>2014年6月：上线销售主题 <a href="https://www.wpdaxue.com/shop/wordpress-theme-wdone/" target="_blank">wdone</a>（至今仍在销售更新）</p>
+<p>2014年底：用户达 3365，投稿人 30 多，总投稿文章 100 多篇。</p>
+<p>2015年底：为了实现支付宝及时到账，<strong>注册了小公司</strong>“博白县沃鹏网络科技有限公司”</p>
+<p>2016年1月初：<strong>销售系统出现严重漏洞</strong>，所有收费主题（包括别人投稿的）都被泄露了，这是最严重的一次事故了</p>
+<p>2016年1月下旬：<strong>更换企业身份备案网站</strong>，并更换新主题，同时<strong>更换销售系统</strong>为 <a href="https://www.wpdaxue.com/easy-digital-downloads.html" target="_blank">Easy digital downloads</a></p>
+<p><img style="float: none; margin: 0px auto; display: block;" title="20161124132620_wpdaxue_com" src="https://img.wpdaxue.com/2016/11/20161124132620_wpdaxue_com.png" alt="20161124132620_wpdaxue_com" width="800" height="3107" /></p>
+<p>2016年2月初：和凌风共同<strong>开发</strong><a href="https://www.wpdaxue.com/shop/wordpress-theme-development-videos" target="_blank"><strong>上线视频课程</strong></a></p>
+<p>2016年2月24日：<strong>开通微信公众号</strong></p>
+<p>2016年7月：上线销售主题 <a href="https://www.wpdaxue.com/shop/wordpress-theme-wdlog" target="_blank">WDlog</a>（至今仍在销售更新）</p>
+<p>2016年9月14日：全面<strong>切换为 https 协议</strong>，提升网站数据安全</p>
+<p>2016年11月24日：<strong>注册用户 8500人，投稿用户 63 人，投稿 226 篇，文章总数 1248 篇，商品 18 个，日 PV 1.5W</strong></p>
+<blockquote><p><strong>一路走来，着实不易，好在，一路有大家的陪伴和支持，感谢你们！</strong></p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wpdaxue-4-years.html/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		</item>
+		<item>
+		<title>使用 WooSidebars 为不同的页面设置不同的侧边栏</title>
+		<link>https://www.wpdaxue.com/woosidebars.html</link>
+		<comments>https://www.wpdaxue.com/woosidebars.html#respond</comments>
+		<pubDate>Thu, 24 Nov 2016 01:30:04 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[基础教程]]></category>
+		<category><![CDATA[侧边栏]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=41160</guid>
+		<description><![CDATA[很多主题虽然内置了几个小工具区域，但可能还是无法满足为不同页面（归档、分类、文章类型等）设置不同侧边栏的要求， &#8230;]]></description>
+				<content:encoded><![CDATA[<p>很多主题虽然内置了几个小工具区域，但可能还是无法满足为不同页面（归档、分类、文章类型等）设置不同侧边栏的要求，赶巧我们又不懂代码，怎么办？那就试试 WooSidebars 吧！</p>
+<p>WooSidebars 允许创建新的侧边栏区域，然后选择要使用这个新的侧边栏区域的页面，从而非常灵活地实现了不同页面不同侧边栏的需求，一起看下图解：</p>
+<p>以下就是新建侧边栏区域的界面，注意看下图片文字说明：</p>
+<p><img title="20161124091329_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161124091329_wpdaxue_com" src="https://img.wpdaxue.com/2016/11/20161124091329_wpdaxue_com.png" width="1113" height="555"></p>
+<p>以下就是我们刚才创建的小工具区域：</p>
+<p><img title="20161124091547_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161124091547_wpdaxue_com" src="https://img.wpdaxue.com/2016/11/20161124091547_wpdaxue_com.png" width="1095" height="564"></p>
+<p>总的来说是非常方便了，对于内容比较复杂多样的网站，灵活地设置侧边栏的内容可以很好地提高用户体验以及网站效益！</p>
+<p>在后台插件安装界面搜索 WooSidebars 即可在线安装，或者在这里下载 WooSidebars。有什么问题可以看下<a href="https://docs.woocommerce.com/document/woosidebars-2/" target="_blank">官方的教程</a>。</p>
+<p>突然想起来，倡萌之前已推荐过另一款类似插件：<a href="https://www.wpdaxue.com/custom-sidebars.html" target="_blank">Custom sidebars</a>，感兴趣不妨也试试，挑选最适合你的！</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/woosidebars.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress 多用途企业主题 Total（兼容WooCommerce）</title>
+		<link>https://www.wpdaxue.com/wordpress-theme-total.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-theme-total.html#respond</comments>
+		<pubDate>Sun, 20 Nov 2016 01:20:04 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[WordPress主题]]></category>
+		<category><![CDATA[WooCommerce]]></category>
+		<category><![CDATA[企业主题]]></category>
+		<category><![CDATA[免费主题]]></category>
+		<category><![CDATA[单页主题]]></category>
+		<category><![CDATA[响应式主题]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=40976</guid>
+		<description><![CDATA[Total 是一个完全免费的 WordPress 多用途企业主题，简洁大气的设计风，无限的配色方案，单页视差， &#8230;]]></description>
+				<content:encoded><![CDATA[<p><img title="20161120091241_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161120091241_wpdaxue_com" src="https://img.wpdaxue.com/2016/11/20161120091241_wpdaxue_com.png" width="750" height="400"></p>
+<p>Total 是一个完全免费的 WordPress 多用途企业主题，简洁大气的设计风，无限的配色方案，单页视差，固定菜单，精美的动态滑块。具备10来个首页内容模块：关于我们、特色推荐、作品展示、服务、团队成员展示、客户徽标展示、顾客评价、统计数据、博客内容、请求操作等！此外，Total 还有4种文章、页面布局，可设置侧边栏位置，是否显示侧边栏等。当然了，如果你想为你的网站添加商城功能，Total 也可以哦，因为它兼容 WooCommerce 商城插件！</p>
+<p><img title="20161120091002_wpdaxue_com" style="float: none; margin: 0px auto; display: block" alt="20161120091002_wpdaxue_com" src="https://img.wpdaxue.com/2016/11/20161120091002_wpdaxue_com.png" width="800" height="4636"></p>
+<ul>
+<li>Total 在线预览：<a title="http://demo.hashthemes.com/total/" href="http://demo.hashthemes.com/total/" target="_blank">http://demo.hashthemes.com/total/</a></li>
+<li>Total 主题下载：<a title="https://wordpress.org/themes/total/" href="https://wordpress.org/themes/total/" target="_blank">https://wordpress.org/themes/total/</a></li>
+<li>Total 官方发布：<a title="https://hashthemes.com/wordpress-theme/total/" href="https://hashthemes.com/wordpress-theme/total/" target="_blank">https://hashthemes.com/wordpress-theme/total/</a></li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-theme-total.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress 4.7 Beta 4 发布</title>
+		<link>https://www.wpdaxue.com/wordpress-4-7-beta-4.html</link>
+		<comments>https://www.wpdaxue.com/wordpress-4-7-beta-4.html#respond</comments>
+		<pubDate>Thu, 17 Nov 2016 00:30:56 +0000</pubDate>
+		<dc:creator><![CDATA[倡萌]]></dc:creator>
+				<category><![CDATA[WordPress资讯]]></category>
+		<category><![CDATA[WordPress 4.7]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=40789</guid>
+		<description><![CDATA[WordPress 4.7 Beta 4 已发布测试了，该版本主要做了大约60次更改，包括对Twenty Se &#8230;]]></description>
+				<content:encoded><![CDATA[<p>WordPress 4.7 Beta 4 已发布测试了，该版本主要做了大约60次更改，包括对Twenty Seventeen主题，自定义CSS和REST API内容端点的更改。你可以访问 <a href="https://www.wpdaxue.com/tag/wordpress-4-7/" target="_blank">WordPress 4.7相关文章</a>了解4.7的更多信息，也可以<a href="https://wordpress.org/wordpress-4.7-beta4.zip" target="_blank">点击下载 WordPress 4.7 Beta 4</a> 进行测试。</p>
+<p>如果你是wordpress插件或主题开发者，建议看下：<a title="https://make.wordpress.org/core/tag/4-7+dev-notes/" href="https://make.wordpress.org/core/tag/4-7+dev-notes/" target="_blank">https://make.wordpress.org/core/tag/4-7+dev-notes/</a>，还是有不少地方需要了解的哦！</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/wordpress-4-7-beta-4.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>把一个WordPress站点的文章导入另一个WordPress站点的方法</title>
+		<link>https://www.wpdaxue.com/importing-articles-from-one-site-into-another-site.html</link>
+		<comments>https://www.wpdaxue.com/importing-articles-from-one-site-into-another-site.html#respond</comments>
+		<pubDate>Thu, 17 Nov 2016 00:20:44 +0000</pubDate>
+		<dc:creator><![CDATA[三好公民]]></dc:creator>
+				<category><![CDATA[基础教程]]></category>
+		<category><![CDATA[数据导入]]></category>
+
+		<guid isPermaLink="false">https://www.wpdaxue.com/?p=40772</guid>
+		<description><![CDATA[光看标题你可能不是太清楚具体的情况，所以三好菌就先把自己的需求详细描述一下： 三好菌想要放弃之前的“我爱Win &#8230;]]></description>
+				<content:encoded><![CDATA[<p>光看标题你可能不是太清楚具体的情况，所以三好菌就先把自己的需求详细描述一下：</p>
+<p>三好菌想要放弃之前的“我爱Windows8”网站，但是其中的某些资源（例如“Windows8主题”）在Windows10中依然有效，并且这些文章都是三好菌一个字一个字码出来的，所以全部丢弃着实可惜。于是，三好菌就想把其中的部分文章导入到“Win10专业网”中。但是文章的分类目录、标签、标题、正文部分内容，甚至固定链接都需要做修改才行。</p>
+<p>还是以把“我爱Windows8”网站的“Win8主题”分类目录的文章导入“Win10专业网”的“Win10主题”分类目录为例，需要修改的地方有：</p>
+<ul>
+<li>分类目录：“Win8主题”改成“Win10主题”</li>
+<li>标签：“Win8.1主题下载、Windows8主题”改成“Win10主题下载、Windows10主题”</li>
+<li>文章标题：“Win8.1”修改成“Win10”</li>
+<li>文章作者：“Microsoft酋长”改成“MS酋长”</li>
+<li>文章发布日期：改成“Win10专业网”建站之后的日期才合理</li>
+<li>文章内容：“Win8.1”修改成“Win10”</li>
+<li>固定链接：http://www.52windows8.com/%category%/%post_id%.html格式修改成http://www.windows10.pro/sample-post/格式</li>
+</ul>
+<div id="wpwrap"> </div>
+<p>面对这几百篇文章，如何才能效率既高，又不易出错呢？可能对于数据库高手来讲不在话下，可是对于三好菌来说，纯粹操作数据库还真怕玩不转，尤其是风险太高。</p>
+<p>想必有这个需求的不是太多，所以三好公民没有找到现成的教程，只好自己琢磨。本来想尝试采集软件，但是觉得可控性不好。于是，就决定还是用WordPress自带的“导入/导出”工具靠谱。倡萌已经分享过《<a href="https://www.wpdaxue.com/wordpress-import-export.html" target="_blank">WordPress自带的导出导入功能使用教程</a>》，所以三好菌不再赘述导出导入的方法，下面只详细分享一下如何借助它实现在两个不同WordPress网站间转移文章的目的。</p>
+<p>这就需在转移的过程中来做手脚，也就是把导出的数据先修改成符合我们需要之后再导入新站点。WordPress导出的是xml格式的文件，三好菌用Notepad++打开它，下面展示一下一篇文章的标题和正文内容部分。如图：</p>
+<p><a href="//img.wpdaxue.com/2016/11/2016-11-16_205307.png"><img class="attachment-full size-full aligncenter" src="//img.wpdaxue.com/2016/11/2016-11-16_205307.png" alt="2016-11-16_205307" width="784" height="487" /></a></p>
+<p>你可以很轻松地用批量替换的方法把标题和正文内容中的“win8.1”替换成“Win10”。但是文章链接和发布日期、分类目录、标签等却需要修改正文后面的元数据部分。如图：</p>
+<p><a href="//img.wpdaxue.com/2016/11/2016-11-16_205853.png"><img class="attachment-full size-full aligncenter" src="//img.wpdaxue.com/2016/11/2016-11-16_205853.png" alt="2016-11-16_205853" width="797" height="556" /></a></p>
+<p><strong>&lt;wp:post_id&gt;</strong></p>
+<p>文章ID，为了避免ID重复，建议修改成比新网站最新的文章ID还大的数字，否则有冲突的风险。</p>
+<p><strong>&lt;wp:post_date&gt;</strong></p>
+<p>文章发布日期</p>
+<p><strong>&lt;wp:post_name&gt;</strong></p>
+<p>固定链接中显示的文章标题。建议把这里修改成简短一些的英文，否则导入之后文章的链接就变成了“http://www.windows10.pro/汉字文章标题的编码/”，很长；</p>
+<p><strong>&lt;category domain=&#8221;category&#8221; nicename=&#8221;themes&#8221;&gt;&lt;![CDATA[Win8主题]]&gt;&lt;/category&gt;</strong></p>
+<p>分类目录，除了要修改汉字的分类目录名称，还要修改nicename，也就是分类目录的别名，修改成新网站里分类目录的别名，否则即使汉字名称相同，导入之后文章也会另起炉灶，在另一个同名的目录里。</p>
+<p><strong>&lt;category domain=&#8221;post_tag&#8221; nicename=&#8221;windows8-1%e4%b8%bb%e9%a2%98&#8243;&gt;&lt;![CDATA[Windows8.1主题]]&gt;&lt;/category&gt;</strong></p>
+<p>文章标签。同样要修改标签名称和别名。</p>
+<p>这其中能够批量修改的有“文章标题、发布日期（年份）、分类目录、标签、正文中的字词”，需要逐一修改有“文章ID、固定链接里的文章标题”，所以总体上修改效率还是比较高的。</p>
+<p>细心的读者可能会说，怎么没见修改文章作者啊？其实不用这里改，导入的时候指定新作者就可以了，后面会讲到。不过文章正文中的作者名称还是要在这里批量修改好的。</p>
+<p>修改完成之后保存，然后就可以在新网站中导入了。</p>
+<p><a href="//img.wpdaxue.com/2016/11/2016-11-16_212813.png"><img class="attachment-full size-full aligncenter" src="//img.wpdaxue.com/2016/11/2016-11-16_212813.png" alt="2016-11-16_212813" width="594" height="439" /></a></p>
+<p>看到了吧，只需“将日志分配给现有用户”就可以实现改作者了。</p>
+<p>不过这里有一点比较遗憾，就是“<label for="import-attachments">下载并导入文件附件”选项，三好菌勾选后并没有实现。后来又一篇文章一篇文章地用<a href="http://www.3haow.com/wordpress-hacklog-remote-image-autosave/" target="_blank">Hacklog Remote Image Autosave</a>插件远程下载到文章里的。不知道有没有更智能的方法，请大家推荐一下。</label></p>
+<p>PS：关于转移图片，三好菌想到一个方法。就是先把所有的图片全部拷贝过来，然后使用Add From Server插件把这些图片信息添加进入媒体库，然后使用媒体库里的“尚未附加”进行筛选，或者使用<a href="https://www.wpdaxue.com/delete-not-used-images.html" target="_blank"> DNUI 插件</a>扫描未使用的图片，再批量删除即可。</p>
+<p>OK，一番忙碌之后，旧网站的文章已经与新网站的文章浑然一体了。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.wpdaxue.com/importing-articles-from-one-site-into-another-site.html/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

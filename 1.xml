@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>拍拍看科技</title>
+		<link>http://www.paipk.com/</link>
+		<description>关注科技产品和个人博客发展,注重用户体验和界面优化</description>
+		<item>
+			<title xmls="5745">新购买了一个域名：losehub.com</title>
+			<link>http://www.paipk.com/537.html</link>
+			<description>最近新购买了一个域名losehub.com。准备来做一个PHP项目，具体的还在谋划中。不知道什么时候能开始制作呢。</description>
+			<pubDate>Tue, 27 Dec 2016 14:47:25 +0800</pubDate>
+		</item>
+	</channel>
+</rss>
