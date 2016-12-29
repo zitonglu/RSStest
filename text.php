@@ -1,12 +1,12 @@
 <?php
 $indexUrl = 'http://limiwu.com/feed';
-$reader = new XMLReader();  
+$reader = new XMLReader();
 $reader->open($indexUrl);
 $titles = $links = $descriptions = $pubDates = array();
  
 while ($reader->read()){  
         if($reader->nodeType == XMLReader::ELEMENT){  
-            $nodeName = $reader->name;  
+            $nodeName = $reader->name;
         }
         if($reader->nodeType == XMLReader::TEXT && !empty($nodeName) && $reader->depth == '4'){
             switch($nodeName){
@@ -20,15 +20,37 @@ while ($reader->read()){
                     break;
                 case 'description':
                     $description = $reader->value;
-                    array_push($descriptions,$description);  
-                    break;  
+                    array_push($descriptions,$description);
+                    echo $description.'<br />';
+                    break;
                 case 'pubDate':
                     $pubDate = $reader->value;
                     array_push($pubDates,$pubDate);
                     break;  
             }  
-        } 
+        }
+        if($reader->nodeType == XMLReader::CDATA && !empty($nodeName) && $reader->depth == '4'){
+            switch($nodeName){
+                case 'title':
+                    $title = $reader->value;
+                    array_push($titles,$title);
+                    break;  
+                case 'link':
+                    $link = $reader->value;
+                    array_push($links,$link);
+                    break;
+                case 'description':
+                    $description = $reader->value;
+                    array_push($descriptions,$description);
+                    break;
+                case 'pubDate':
+                    $pubDate = $reader->value;
+                    array_push($pubDates,$pubDate);
+                    break;  
+            }  
+        }
  }  
+
 
 $reader->close();
 
